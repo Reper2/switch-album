@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/771861170256085023?color=%237289DA&label=Official%20Server&logo=discord)](https://discord.gg/JGEjfm5Gn4)  
 This is sort of a database although I don't exactly use it that way. (or at least not yet)
 
-![logo]()
+![logo](logo.png)
 
 The album is categorised in folders according to its date. The album is almost always up-to-date.
 
