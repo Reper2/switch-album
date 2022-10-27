@@ -41,7 +41,8 @@ I use this repository as a reference for fetching images (kinda like a database 
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) (zip) [<span title="smp"></span>]
 
 <script>
-    document.getElementsByName("span").forEach(element => fileSize(element.title));
+    const span = document.getElementsByName("span");
+    span.forEach(element => fileSize(element.title));
     function fileSize(album) {
         var params = {
             method: "GET",
@@ -53,5 +54,6 @@ I use this repository as a reference for fetching images (kinda like a database 
         var headers = response.getHeaders();
         var fileSizeString = headers['Content-Range'];
         var fileSize = fileSizeString.split("/")[1];
+        span.forEach(element => element.innerHTML = fileSize);
     }
 </script>
