@@ -10,32 +10,32 @@ I use this repository as a reference for fetching images (kinda like a database 
 </details>
 
 # Downloads
-## Animal Crossing: New Horizons Album
+## Animal Crossing: New Horizons album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) (zip) [2.79 GB]
 
-## The Legend of Zelda: Breath of the Wild Album
+## The Legend of Zelda: Breath of the Wild album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/botw.zip) (zip) [1.94 GB]
 
-## Game Builder Garage Album
+## Game Builder Garage album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/gbg.zip) (zip) [1.11 GB]
 
-## Miitopia Album
+## Miitopia album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/miitopia.zip) (zip) [17.9 MB]
 
-## Super Mario 3D World + Bowser's Fury Album
+## Super Mario 3D World + Bowser's Fury album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3dw_bf.zip) (zip) [143 MB]
 
-## Super Mario 64 Album
+## Super Mario 64 album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm64.zip) (zip) [320 KB]
 
-## Super Mario Galaxy Album
+## Super Mario Galaxy album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smg.zip) (zip) [211 MB]
 
-## Super Mario Maker 2 Album
+## Super Mario Maker 2 album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smm2.zip) (zip) [243 KB]
 
-## Super Mario Odyssey Album
+## Super Mario Odyssey album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smo.zip) (zip) [1.44 GB]
 
-## Super Mario Party Album
+## Super Mario Party album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) (zip) [770 KB]
