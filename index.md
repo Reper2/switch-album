@@ -10,29 +10,48 @@ I use this repository as a reference for fetching images (kinda like a database 
 </details>
 
 # Downloads
-## ACNH Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) (zip) [mega large, something GB, thousands of files]
+## Animal Crossing: New Horizons Album
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) (zip) [<span title="acnh"></span>]
+
+## The Legend of Zelda: Breath of the Wild Album
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) (zip) [<span title="botw"></span>]
 
 ## Game Builder Garage Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/gbg.zip) (zip) [small | few MB | few files]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/gbg.zip) (zip) [<span title="gbg"></span>]
 
 ## Miitopia Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/miitopia.zip) (zip) [small | few MB | lots of files]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/miitopia.zip) (zip) [<span title="miitopia"></span>]
 
 ## Super Mario 3D World + Bowser's Fury Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3dw_bf.zip) (zip) [medium | lots of MB | lots of files]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3dw_bf.zip) (zip) [<span title="sm3dw_bf"></span>]
 
 ## Super Mario 64 Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm64.zip) (zip) [tiny | few KB | 2 files]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm64.zip) (zip) [<span title="sm64"></span>]
 
 ## Super Mario Galaxy Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smg.zip) (zip) [medium | lots of MB | lots of files]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smg.zip) (zip) [<span title="smg"></span>]
 
 ## Super Mario Maker 2 Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smm2.zip) (zip) [tiny | few KB | 1 file]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smm2.zip) (zip) [<span title="smm2"></span>]
 
 ## Super Mario Odyssey Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smo.zip) (zip) [tiny | few KB | 1 file]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smo.zip) (zip) [<span title="smo"></span>]
 
 ## Super Mario Party Album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) (zip) [tiny | few KB | 3 files]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) (zip) [<span title="smp"></span>]
+
+<script>
+    document.getElementsByName("span").forEach(element => fileSize(element.title));
+    function fileSize(album) {
+        var params = {
+            method: "GET",
+            headers: {
+                Range: "bytes=0-0",
+            },
+        };
+        var response = UrlFetchApp.fetch(("https://github.com/Reper2/nintendo-album/archive/refs/heads/"+album+".zip"), params);
+        var headers = response.getHeaders();
+        var fileSizeString = headers['Content-Range'];
+        var fileSize = fileSizeString.split("/")[1];
+    }
+</script>
