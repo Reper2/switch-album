@@ -14,7 +14,7 @@ I use this repository as a reference for fetching images (kinda like a database 
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) (zip) [2.79 GB]
 
 ## The Legend of Zelda: Breath of the Wild album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/botw.zip) (zip) [1.94 GB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/botw.zip) (zip) [2.47 GB]
 
 ## Game Builder Garage album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/gbg.zip) (zip) [1.11 GB]
