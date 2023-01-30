@@ -14,10 +14,10 @@ I'm about to start using this repository as a database for backgrounds and other
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) [2.79 GB]
 
 ## The Legend of Zelda: Breath of the Wild album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/botw.zip) [2.47 GB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/lozbotw.zip) [2.47 GB]
 
 ## The Legend of Zelda: Skyward Sword album
-Download []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/lozss.zip) []
 
 ## Game Builder Garage album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/gbg.zip) [1.11 GB]
@@ -43,8 +43,8 @@ Download []
 ## Super Mario Party album
 [Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) [770 KB]
 
-## Super Smash Bros. album
-Download []
+## Super Smash Bros. Ultimate album
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/ssbu.zip) []
 
 ## Kirby and the Forgotten Land album
-Download []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/kfl.zip) []
