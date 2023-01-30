@@ -1,4 +1,4 @@
-# Welcome to Reper2's Switch Albums
+# Welcome to Reper2's Nintendo Switch Album
 
 You may have come here from [Reper2's ACNH Website](/acnh) to download the complete album of Reper2's Animal Crossing screenshots & videos. Which can be found below in the list of download links. The ACNH Album is pretty much an entire history of my island as well as other stuff.
 
@@ -11,31 +11,40 @@ I'm about to start using this repository as a database for backgrounds and other
 
 # Downloads
 ## Animal Crossing: New Horizons album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) (zip) [2.79 GB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) [2.79 GB]
 
 ## The Legend of Zelda: Breath of the Wild album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/botw.zip) (zip) [2.47 GB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/botw.zip) [2.47 GB]
+
+## The Legend of Zelda: Skyward Sword album
+Download []
 
 ## Game Builder Garage album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/gbg.zip) (zip) [1.11 GB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/gbg.zip) [1.11 GB]
 
 ## Miitopia album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/miitopia.zip) (zip) [17.9 MB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/miitopia.zip) [17.9 MB]
 
 ## Super Mario 3D World + Bowser's Fury album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3dw_bf.zip) (zip) [143 MB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3dw_bf.zip) [143 MB]
 
 ## Super Mario 64 album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm64.zip) (zip) [320 KB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm64.zip) [320 KB]
 
 ## Super Mario Galaxy album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smg.zip) (zip) [211 MB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smg.zip) [211 MB]
 
 ## Super Mario Maker 2 album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smm2.zip) (zip) [243 KB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smm2.zip) [243 KB]
 
 ## Super Mario Odyssey album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smo.zip) (zip) [1.44 GB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smo.zip) [1.44 GB]
 
 ## Super Mario Party album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) (zip) [770 KB]
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) [770 KB]
+
+## Super Smash Bros. album
+Download []
+
+## Kirby and the Forgotten Land album
+Download []
