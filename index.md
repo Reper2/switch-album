@@ -1,8 +1,8 @@
-# Welcome to Reper2's Nintendo Album
+# Welcome to Reper2's Switch Albums
 
-You may have come here from [Reper2's ACNH Website](/acnh) to download the complete album of Reper2's Animal Crossing screenshots & videos. Which can be found below in the list of download links. The ACNH Album is pretty much an entire history of my island.
+You may have come here from [Reper2's ACNH Website](/acnh) to download the complete album of Reper2's Animal Crossing screenshots & videos. Which can be found below in the list of download links. The ACNH Album is pretty much an entire history of my island as well as other stuff.
 
-I use this repository as a reference for fetching images (kinda like a database but not exactly yet) and making my projects (such as [Reper2's ACNH Website](/acnh)).
+I'm about to start using this repository as a database for backgrounds and other things in my websites. 
 
 <details>
     <summary>Also if you're wondering how I keep this up-to-date without going through a process of QR Code scanning, let me explain...</summary>
