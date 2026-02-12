@@ -1,4 +1,4 @@
-# Welcome to S.☆Penguin's Switch/2's Nintendo Switch Album
+# Welcome to S.☆Penguin's Nintendo Switch/2's Album
 
 You may have come here from [Sherbet Penguin's ACNH Website](/acnh) to download the album of my Animal Crossing screenshots. Which can be found below in the list of download links. The screenshots detail most of my island's history, as well as other things. Some pictures have been omitted, as they did not have purpose.
 
