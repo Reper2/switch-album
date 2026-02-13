@@ -12,70 +12,70 @@ Bla, bla, bla, that was me old self, now I just use a USB cable between my Switc
 
 # Downloads
 ## Animal Crossing: New Horizons album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) [338.9 MB] (sizes of other albums will be updated soon)
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/acnh.zip) [338.9 MB]
 
 ## Donkey Kong Bananza album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/dkb.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/dkb.zip) [1.2 MB]
 
 ## Hyrule Warriors: Age of Imprisonment album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/hw-aoi.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/hw-aoi.zip) [799 KB]
 
 ## Kirby and the Forgotten Land album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/katfl.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/katfl.zip) [2.7 MB]
 
 ## Luigi's Mansion 3 album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/lm3.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/lm3.zip) [5.1 MB]
 
 ## Mario Kart 8 Deluxe album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/mk8dx.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/mk8dx.zip) [1.3 MB]
 
 ## Mario Party Superstars album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/mps.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/mps.zip) [254 KB]
 
 ## Miitopia album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/miitopia.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/miitopia.zip) [42.7 MB]
 
 ## Paper Mario and The Thousand Year Door album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/pm-ttyd.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/pm-ttyd.zip) [4.8 MB]
 
 ## Pikmin 4 album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/pik4.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/pik4.zip) [2.1 MB]
 
 ## Pokemon Legends: Arceus album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/poke-la.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/poke-la.zip) [18 MB]
 
 ## Pokemon Sword album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/poke-sword.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/poke-sword.zip) [266 KB]
 
 ## Super Mario 3D All-Stars album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3da.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3da.zip) [13.9 MB]
 
 ## Super Mario 3D World + Bowser's Fury album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3dw_bf.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/sm3dw_bf.zip) [12.4 MB]
 
 ## Super Mario Bros. Wonder album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smbw.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smbw.zip) [12.6 MB]
 
 ## Super Mario Galaxy 2 album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smg2.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smg2.zip) [6.5 MB]
 
 ## Super Mario Odyssey album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smo.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smo.zip) [14.8 MB]
 
 ## Super Mario Party album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/smp.zip) [3.6 MB]
 
 ## Super Smash Bros. Ultimate album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/ssbu.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/ssbu.zip) [3.7 MB]
 
 ## The Legend of Zelda: Breath of the Wild album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/loz-botw.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/loz-botw.zip) [78.6 MB]
 
 ## The Legend of Zelda: Echoes of Wisdom album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/loz-eow.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/loz-eow.zip) [8.7 MB]
 
 ## The Legend of Zelda: Skyward Sword album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/loz-ss.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/loz-ss.zip) [29.4 MB]
 
 ## The Legend of Zelda: Tears of the Kingdom album
-[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/loz-totk.zip) []
+[Download](https://github.com/Reper2/nintendo-album/archive/refs/heads/loz-totk.zip) [54.6 MB]
