@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Switch Album - Frosty Volcano Summit</title>
+  <link href="/assets/main.css" rel="stylesheet" type="text/css">
+  <link href="/assets/eggs.css" rel="stylesheet" type="text/css">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EGBMJBFWQF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EGBMJBFWQF');
+  </script>
+  <link rel="apple-touch-icon" sizes="180x180" href="./images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./images/favicon-16x16.png">
+  <link rel="manifest" type="application/manifest+json" href="./site.webmanifest">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta id="meta-title" property="og:title" content="Frosty Volcano Summit">
+  <meta id="meta-desc" property="og:description"
+    content="This is a download page for Ethan's Switch screenshots album. You ['the User'] are entitled to download any of the following compressed files ['zips'] for your own private usage, or strictly personal usage including profile pictures, with the exception of any albums (i.e. Tomodachi Life: Living the Dream) containing Mii or human Animal Crossing characters. You may not use any screenshots containing these identifiable characters for self-promotional purposes. 'Special permission' or 'licensing' cannot be provided for commercial ['paid'] usage of any kind, as the commercial copyright of 'capture button taken screenshots' is reserved by Nintendo Co., Ltd.">
+  <meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/images/meta.png">
+  <meta property="og:site_name" content="Frosty Volcano Summit | reper2.github.io">
+  <meta property="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#14d8ee">
+  <script src="/app/lib/jquery-4.0.0.min.js" defer></script>
+  <script>
+    // Block rendering for a millisecond to pull the theme before the DOM draws
+    if (localStorage.getItem("site-theme") === "alt") {
+      const link = document.createElement("link");
+      link.id = "theme-link";
+      link.rel = "stylesheet";
+      link.href = "/assets/alt-theme.css";
+      document.head.appendChild(link);
+    } else if (!localStorage.getItem("site-theme")) {
+      localStorage.setItem("site-theme", "alt");
+    }
+  </script>
+</head>
+
+<body id="_bg">
+  <div class="egg" data-egg="nsAlbum_aboveHeader"></div>
+  <header>Switch Album</header>
+  <main>
+    <div id="grassBox">
+      <h2>Legal Licensing</h2>
+      <span>You ["the User"] are entitled to download any of the following compressed files ["zips"] for your own
+        private usage, or strictly personal usage including profile pictures, with the exception of any albums (i.e.
+        Tomodachi Life: Living the Dream) containing Mii or human Animal Crossing characters. You may not use any
+        screenshots containing these identifiable characters for self-promotional purposes. "Special permission" or
+        "licensing" cannot be provided for commercial ["paid"] usage of any kind, as the commercial copyright of
+        "capture button taken screenshots" is reserved by Nintendo Co., Ltd.</span>
+      <div id="downloadLinksA"></div>
+      <div class="egg" data-egg="nsAlbum_sixDown"></div>
+      <div id="downloadLinksB"></div>
+      <div class="egg" data-egg="nsAlbum_sevenMoreDown"></div>
+      <div id="downloadLinksC"></div>
+      <div class="egg" data-egg="nsAlbum_number21"></div>
+      <div id="downloadLinksD"></div>
+      <a rel="noopener noreferrer" id="learnmore" target="_blank" href="https://github.com/Reper2"
+        title="Location: Reper2/switch-album - GitHub (https://github.com/Reper2/switch-album)">See the full database</a>
+      <br><br>
+      <span id="eggCounter"></span>
+    </div>
+
+    <form id="optForm"></form>
+    <div class="egg" data-egg="nsAlbum_underForm"></div>
+    <div class="flex">
+      <div id="audctrls"></div>
+      <div id="eggMenu"></div>
+      <div id="copy"></div>
+      <div id="install"></div>
+    </div>
+    <div class="egg" data-egg="nsAlbum_underBtns"></div>
+    <audio id="music"></audio>
+  </main>
+  <footer id="footer" class="bottom"></footer>
+</body>
+<script type="module" src="/app/dist/index.js"></script>
+<script src="./injectLinks.js" defer></script>
+
+</html>
